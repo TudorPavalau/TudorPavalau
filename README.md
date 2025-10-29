@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Science Student<br>🌱 I’m currently learning Computer Vision and HDL<br>⚡ I am passionate about Skydiving
+🔭 I’m currently a Computer Engineerng Student<br>🌱 I’m currently learning Computer Vision and HDL<br>⚡ I am passionate about Skydiving
 
 
 ## 🌐 Socials:
