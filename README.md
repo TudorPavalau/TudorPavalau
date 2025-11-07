@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Computer Engineering Student<br>🌱 I’m currently learning Computer Vision and HDL<br>⚡ I am passionate about Skydiving
+🔭 I’m currently a Computer Engineering Student<br>🌱 I’m currently learning AI, Computer Vision, Arduino/ESP32 and HDL<br>⚡ I am passionate about Skydiving
 
 
 ## 🌐 Socials:
